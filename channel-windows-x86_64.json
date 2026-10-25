@@ -1,0 +1,8 @@
+{
+  "platform": "windows-x86_64",
+  "packageFormat": "omnidash-update-age",
+  "version": "1.0.16",
+  "url": "https://github.com/n2lyn69/qx7d9-km4v2-r8p1c6/releases/download/windows-v1.0.16/OmniDash-1.0.16-Windows-x64.omnidash-update.age",
+  "bytes": 5915164,
+  "notes": "Première validation du canal de mises à jour Windows. Même code que l’installateur 1.0.15, version incrémentée pour tester téléchargement, installation et redémarrage."
+}
